@@ -1,6 +1,7 @@
 body {
 	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	background:url(../images/old_map.png);
+	color: #777777;
 }
 
 .navbar {
@@ -86,8 +87,6 @@ ul {
 	align-items: center;
 	position:relative;
 	padding:0;
-
-
 }
 .projectText {
 	margin-top:-24%;
@@ -99,4 +98,14 @@ ul {
 	font-size:1.3em;
 	width:100%;
 	max-width:100%;
+}
+
+.projectImage {
+	margin-left:0;
+	margin-right:0;
+	width:100%;
+}
+
+.form-group {
+
 }

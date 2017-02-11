@@ -43,8 +43,8 @@ body {
 }
 
 .logo {
-	width:33%;
 	float:left;
+	padding:1%;
 }
 footer {
 	position:fixed;
@@ -78,4 +78,25 @@ footer {
 ul {
 	font-size: 1.5em;
 	padding-top:1%;
+}
+
+.thumbnail {
+	text-align:center;
+	size:48%;
+	align-items: center;
+	position:relative;
+	padding:0;
+
+
+}
+.projectText {
+	margin-top:-24%;
+	background-color:#4aaaa5;
+	color: #ffffff;
+	position:absolute;
+	padding:3% 0;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	font-size:1.3em;
+	width:100%;
+	max-width:100%;
 }
